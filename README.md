@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nagarjun Shroff
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nagarjun-shroff-44943228)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nagarjun-shroff-44943228/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NagarjunShroff)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://nagarjunsinfo.netlify.app/)
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer based in Beng
 
 ## 📫 Let's connect
 
-- LinkedIn: [Nagarjun Shroff](www.linkedin.com/in/nagarjun-shroff-44943228)
+- LinkedIn: [Nagarjun Shroff](https://www.linkedin.com/in/nagarjun-shroff-44943228/)
 - Twitter: [@NagarjunShroff](https://twitter.com/NagarjunShroff)
 - Portfolio: [Nagarjun Shroff](https://nagarjunsinfo.netlify.app/)
 
