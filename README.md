@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer based in Beng
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeSrcipt](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS]https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat&logo=GIT&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
